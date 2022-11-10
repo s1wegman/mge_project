@@ -18,4 +18,10 @@ The app will also be able to convert between different timezones selected by the
 |Dark theme|1|
 |Total|11|
 
-##
+## Screenshots
+## Screenshots
+|Light theme|Dark theme|
+|-|-|
+|![Local time light](/img/local_time_light.png)|![local time dark](/img/local_time_dark.png)|
+|![World time light](/img/world_time_light.png)|![World time dark](/img/world_time_dark.png)|
+|![Settings light](/img/settings_light.png)|![Settings dark](/img/settings_dark.png)|
