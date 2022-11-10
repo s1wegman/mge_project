@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="title_local">Local Time</string>
+    <string name="title_world">World Time</string>
+    <string name="title_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string-array name="city_array">
+        <item>Bern, Switzerland</item>
+        <item>Tokyo, Japan</item>
+        <item>New York, USA</item>
+        <item>Los Angeles, USA</item>
+        <item>Seoul, Korea</item>
+        <item>Bangkok, Thailand</item>
+        <item>Moscow, Russia</item>
+        <item>Berlin, Germany</item>
+        <item>Paris, France</item>
+        <item>Beijing, China</item>
+    </string-array>
+    <string name="location_from">Default Location (From)</string>
+    <string name="location_to">Default Location (To)</string>
+    <string name="timezone_calculator_from">Timezone Calculator (From)</string>
+    <string name="timezone_calculator_to">Timezone Calculator (To)</string>
+    <string name="calculate">Calculate</string>
+    <string name="set_time">Set Time</string>
+    <string name="set_date">Set Date</string>
+</resources>
